@@ -1,21 +1,23 @@
 # Semaine1
 Semaine1 simplononeline
-----
+
 
 #FlorianChambolle  
---
+
 
 ##Experience Pro  
-*Maintenance industrielle  
-*Commerce  
-*Banque/finance  
-*Marketing  
+* Maintenance industrielle  
+* Commerce  
+* Banque/finance  
+* Marketing  
+
 -
 
 ##Formation  
-*BEP MSMA  
-*Bac commerce  
-*BTS managment des unités commerciales  
+* BEP MSMA  
+* Bac commerce  
+* BTS managment des unités commerciales  
+
 -
 
 ##Mes motivations  
